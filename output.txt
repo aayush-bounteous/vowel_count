@@ -1,0 +1,2 @@
+Number of words starting with a vowel: 20
+Words starting with vowels: eclipse, echo, engine, anchor, icicle, Orbit, oxide, orange, Icicle, umbrella
